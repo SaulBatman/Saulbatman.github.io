@@ -39,14 +39,14 @@ redirect_from:
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/gem.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/gem.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](https://arxiv.org/abs/2406.15677)
 
 Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
 
-<span style="color:black">RAL 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
+<span style="color:black">RAL 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> 
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](Coming Soon!) 
@@ -55,14 +55,14 @@ Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seil.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [SEIL: Simulation-augmented Equivariant Imitation Learning](https://arxiv.org/abs/2211.00194)
 
 Mingxi Jia$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
 
-<span style="color:black">ICRA 2023 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
+<span style="color:black">ICRA 2023 <span style="color:#CC0000 "><i>Highlight</i></span></span> 
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2211.00194) [**Project**](https://saulbatman.github.io/project/seil/) 
