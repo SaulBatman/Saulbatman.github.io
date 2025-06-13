@@ -33,14 +33,14 @@ redirect_from:
 - 2022.11.23: Our work, **SEIL: Simulation-augmented Equivariant Imitation Learning**, will be presenting in CoRL 2022 Workshop on Sim-to-Real Robot Learning!
 - 2022.09.15: Our paper, **On-Robot Learning With Equivariant Models**, is accepted by CoRL 2022!
 - 2022.07.15: Our paper, **BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**, is accepted by ISRR 2022!
-  
   </article>
 </details>
+
 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/gem.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/gem.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](https://arxiv.org/abs/2406.15677)
@@ -56,7 +56,7 @@ Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [SEIL: Simulation-augmented Equivariant Imitation Learning](https://arxiv.org/abs/2211.00194)
