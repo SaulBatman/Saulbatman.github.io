@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingxi Jia"
-description              : "Second-year PhD Student at Brown University. "
+description              : "Second-year Ph.D. Student at Brown CS. "
 repository               : "Saulbatman/Saulbatman.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1iNSPQIAAAAJ&hl=en"
-  email            : "mingxi_jia@brown.com"
+  email            : "mingxi_jia@brown.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
