@@ -43,7 +43,7 @@ redirect_from:
 
 ## [Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](https://arxiv.org/abs/2406.15677)
 
-Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
+**Mingxi Jia**$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
 
 <span style="color:black">RAL 2025 </span> 
 
@@ -53,12 +53,12 @@ Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/imagination.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740)
 
-Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
+Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, **Mingxi Jia**, Robert Platt, Robin Walters  
 
 <span style="color:black">CoRL 2024 </span> 
 
@@ -68,12 +68,12 @@ Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haot
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/equi_theory.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [A General Theory of Correct, Incorrect, and Extrinsic Equivariance](https://arxiv.org/pdf/2303.04745.pdf)
 
-Dian Wang, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
+Dian Wang, Xupeng Zhu, Jung Yeon Park, **Mingxi Jia**, Guanang Su, Robert Platt, Robin Walters  
 
 <span style="color:black">NeurIPS 2023 </span> 
 
@@ -88,7 +88,7 @@ Dian Wang, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Rob
 
 ## [SEIL: Simulation-augmented Equivariant Imitation Learning](https://arxiv.org/abs/2211.00194)
 
-Mingxi Jia$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
+**Mingxi Jia**$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
 
 <span style="color:black">ICRA 2023 </span> 
 
@@ -98,12 +98,12 @@ Mingxi Jia$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Wal
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/seil.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2022</div><img src='images/on_robot.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [On-Robot Learning With Equivariant Models](https://arxiv.org/pdf/2203.04923.pdf)
 
-Dian Wang, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
+Dian Wang, **Mingxi Jia**, Xupeng Zhu, Robin Walters, Robert Platt  
 
 <span style="color:black">CoRL 2022 </span> 
 
@@ -113,7 +113,20 @@ Dian Wang, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRR 2022</div><img src='images/bulletarm.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+## [BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework](https://arxiv.org/pdf/2203.04923.pdf)
+
+Dian Wang\*, Colin Kohler\*, Xupeng Zhu, **Mingxi Jia**, Robert Platt    
+
+<span style="color:black">ISRR 2022 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://arxiv.org/pdf/2205.14292.pdf) [**Project**](https://github.com/ColinKohler/BulletArm) 
+
+</div>
+</div>
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. in Computer Science, Brown University, Providence. 
