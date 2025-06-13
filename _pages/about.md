@@ -46,7 +46,7 @@ redirect_from:
 
 Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
 
-<span style="color:black">CVPR 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
+<span style="color:black">RAL 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](Coming Soon!) 
@@ -62,7 +62,7 @@ Mingxi Jia$$^*$$, **Haojie Huang$$^*$$**, Zhewen Zhang, Chenghao Wang, Linfeng Z
 
 Mingxi Jia$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
 
-<span style="color:black">CVPR 2025 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
+<span style="color:black">ICRA 2023 <span style="color:#CC0000 "><i>Highlight</i></span></span> (Top <span style="color:#CC0000">2.98%</span> out of valid submissions)
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2211.00194) [**Project**](https://saulbatman.github.io/project/seil/) 
