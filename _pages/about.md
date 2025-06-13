@@ -28,11 +28,13 @@ redirect_from:
   <summary> &nbsp; Click to Expand</summary>
 
   <article markdown="1" class="post-content">
+
   - 2023.09.22: Our paper, [**A General Theory of Correct, Incorrect, and Extrinsic Equivariance**](https://openreview.net/pdf?id=2FMJtNDLeE), is accepted by NeurIPS 2023!
 - 2023.01.16: Our paper, [**SEIL: Simulation-augmented Equivariant Imitation Learning**](https://saulbatman.github.io/project/seil/), is accepted by ICRA 2023!
 - 2022.11.23: Our work, **SEIL: Simulation-augmented Equivariant Imitation Learning**, will be presenting in CoRL 2022 Workshop on Sim-to-Real Robot Learning!
 - 2022.09.15: Our paper, **On-Robot Learning With Equivariant Models**, is accepted by CoRL 2022!
 - 2022.07.15: Our paper, **BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**, is accepted by ISRR 2022!
+
   </article>
 </details>
 
