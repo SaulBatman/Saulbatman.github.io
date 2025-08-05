@@ -49,7 +49,7 @@ redirect_from:
 <span style="color:black">RAL 2025 </span> 
 
 <!-- <span style="color:grey">In Submission</span> -->
-[**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](Coming Soon!) 
+[**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://saulbatman.github.io/gem_page/) 
 
 </div>
 </div>
